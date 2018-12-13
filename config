@@ -1,0 +1,21 @@
+{
+"survey_title": "BeeTV on Facebook",  
+"survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
+"survey_type": "Visit",  
+"survey_link": "https://www.facebook.com/beetvmovies/",  
+"left_menu_image":"https://i.imgur.com/Ds2h7HS.png",  
+"content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  "package_not_support_audio":"org.videolan.vlc",  
+"link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
+"update_isforce":false,  
+"update_isapk":true,  
+"update_title":"Update new version",  
+"update_content":"Update version 2.0.6<br></br><br>Sorry for fast update. I am going on a vacation, so i have to fix some critical bugs before returning home next week.</br><br>Choose Install Anyway if you get Play Protect message.</br><br>- FireDL code: 880764.</br><br>- Filelinked code: 30837432</br><br>- Add feature to auto play next episode.</br><br>- Fix trailer on Nvidia Shield.</br><br>- Fix some critical bugs.</br><br></br>Update version 2.0.5<br></br><br>- Add more HD movie and tv shows sources.</br><br>- Fix bugs.</br><br></br>Update version 2.0.4<br></br><br>- Add feature to download watched history from Trakt in setting.</br><br>- Add feature to mark episode as watched.</br><br>- Add sort A-->Z on watchlist and collection.</br><br>- Add trailer in movies/tv shows.</br><br>- Add FAQ.</br><br>- Add ability to choose default tab.</br><br>- Add feature to force Android TV mode, only use on some Android TV box.</br><br>- Give MX Player Pro priority when choosing MX Player in setting</br><br>- Add year of movies/tv shows on search suggestion.</br><br></br><br>Update version 2.0.3</br><br>- Fix watchlist not showing.</br><br>- Fix crash on some devices.</br>",  
+"update_build":"9",  
+"update_version":"2.0.6",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.0.6/BeeTV_v2.0.6.apk",  
+"pkg_uninstall":"",  
+"pkg_uninstall_content":"",
+"http_config":"https",
+"ads_priority":"unity",
+"ads_priority":"adincube"
+}
